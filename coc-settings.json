@@ -1,0 +1,19 @@
+{
+  "volar.lowPowerMode": true,
+  "volar.autoCompleteRefs": false,
+  "javascript.suggest.autoImports": false,
+  "typescript.suggest.autoImports": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "javascript",
+    "typescript",
+    "json",
+    "php",
+    "python",
+    "ruby",
+    "scss",
+    "sql",
+    "xml"
+  ]
+}
