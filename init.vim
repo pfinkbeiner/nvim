@@ -26,6 +26,8 @@ Plug 'morhetz/gruvbox'
 Plug 'neovim/nvim-lspconfig'
 Plug 'vim-test/vim-test'
 
+Plug 'Yggdroot/indentLine'
+
 Plug 'tpope/vim-commentary'
 Plug 'github/copilot.vim'
 Plug 'preservim/nerdtree'
